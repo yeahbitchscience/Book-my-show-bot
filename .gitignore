@@ -1,0 +1,18 @@
+# Environments
+venv/
+env/
+.env
+
+# Cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Data Files (Do not commit to GitHub)
+seen_shows.json
+tracked_movies.json
+
+# IDEs
+.vscode/
+.idea/
+*.swp
